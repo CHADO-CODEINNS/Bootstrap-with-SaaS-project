@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Summer Vacation (VS Code Dark+)",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "cSpell.words": [
+        "chado",
+        "codeinn"
+    ],
+    "files.autoSave": "afterDelay"
+}
