@@ -1,3 +1,3 @@
-# Bootstrap-with-SaaS-project
+# Bootstrap-with-SaSS-project
 
 Check the master branch 😉
